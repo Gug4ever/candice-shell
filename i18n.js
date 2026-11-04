@@ -161,7 +161,7 @@ window.CS_I18N = {
 "foot.cat": "Catalogue",
 "foot.info": "Information",
 "foot.rep": "Represented exclusively by",
-"foot.fiction": "Candice Shell is a character created by Tonton Gug Studio.",
+"foot.fiction": "A Tonton Gug Studio project.",
 "foot.rights": "© 2026 Candice Shell. Madrid."
 },
 "fr": {
@@ -326,7 +326,7 @@ window.CS_I18N = {
 "foot.cat": "Catalogue",
 "foot.info": "Informations",
 "foot.rep": "Représentée en exclusivité par",
-"foot.fiction": "Candice Shell est un personnage créé par Tonton Gug Studio.",
+"foot.fiction": "Un projet Tonton Gug Studio.",
 "foot.rights": "© 2026 Candice Shell. Madrid."
 },
 "es": {
@@ -491,7 +491,7 @@ window.CS_I18N = {
 "foot.cat": "Catálogo",
 "foot.info": "Información",
 "foot.rep": "Representada en exclusiva por",
-"foot.fiction": "Candice Shell es un personaje creado por Tonton Gug Studio.",
+"foot.fiction": "Un proyecto de Tonton Gug Studio.",
 "foot.rights": "© 2026 Candice Shell. Madrid."
 }
 };
