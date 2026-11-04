@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://candice-shell.vercel.app/sitemap.xml
